@@ -8,7 +8,7 @@ The proposed model described in the corresponding [paper](https://arxiv.org/abs/
 ## Usage
 1. Clone the github repository
 ```
-git clone https://github.com/avishek-018/emotion-classification-using-tranformers.git
+git clone https://github.com/avishek-018/Emotion-Classification-using-Transformers.git
 ```
 2. Change directory
 ```
@@ -17,7 +17,7 @@ cd emotion-classification-using-tranformers
 
    #### If you are using [colab](https://colab.research.google.com/) ignore steps above and proceed with the following code snippet
    ```
-   !git clone https://github.com/avishek-018/emotion-classification-using-tranformers.git
+   !git clone https://github.com/avishek-018/Emotion-Classification-using-Transformers.git
    !mv  -v emotion-classification-using-tranformers/* /content
    !rm -rf emotion-classification-using-tranformers
    ```
