@@ -1,5 +1,7 @@
 # Emotion Classification using Tranformers
-
+This git repo is a part of the Project [Emotion Classification in a Resource Constrained Language](https://github.com/omar-sharif03/NAACL-SRW-2021).
+The proposed model described in the corresponding [paper](https://arxiv.org/abs/2104.08613) is wrapped up for reuse in this git project.
+## Usage
 1. Clone the github repository
 ```
 git clone https://github.com/avishek-018/emotion-classification-using-tranformers.git
@@ -71,5 +73,6 @@ A <i>result.txt</i> file is generated
 
 <img src="images/results.PNG" height="380" width="480">
 
-### Note
-This git repo is a part of the Project [Emotion Classification in a Resource Constrained Language](https://github.com/avishek-018/NAACL-SRW-2021)
+## Note
+
+If you find any anomaly or have any query/suggestion feel free to ping. Pull requests are welcome.
