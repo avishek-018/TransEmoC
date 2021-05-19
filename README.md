@@ -1,4 +1,3 @@
-![GitHub contributors](https://img.shields.io/github/contributors/avishek-018/Emotion-Classification-using-Transformers?color=green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/avishek-018/Emotion-Classification-using-Transformers)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/avishek-018/Emotion-Classification-using-Transformers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/avishek-018/Emotion-Classification-using-Transformers)
