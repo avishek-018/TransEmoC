@@ -8,6 +8,14 @@ git clone https://github.com/avishek-018/emotion-classification-using-tranformer
 ```
 cd emotion-classification-using-tranformers
 ```
+
+   #### If you are using [colab](https://colab.research.google.com/) ignore steps above and proceed with the following code snippet
+   ```
+   !git clone https://github.com/avishek-018/emotion-classification-using-tranformers.git
+   !mv  -v emotion-classification-using-tranformers/* /content
+   !rm -rf emotion-classification-using-tranformers
+   ```
+
 3. Install the requirements
 ```
 pip install -r requirements.txt
@@ -62,3 +70,6 @@ python evaluate.py --test "data/test.xlsx" --text_col "cleaned" --label_col <"cl
 A <i>result.txt</i> file is generated
 
 <img src="images/results.PNG" height="380" width="480">
+
+### Note
+This git repo is a part of the Project [Emotion Classification in a Resource Constrained Language](https://github.com/avishek-018/NAACL-SRW-2021)
