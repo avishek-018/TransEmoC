@@ -47,7 +47,7 @@ Required arguments:
 <li>--label_col </li>
 </ul>
  
-And the optional arguments are (otherwise proposed hyperpameters are used)
+And the optional arguments are (otherwise default model location used)
 <ul>
 <li>--model </li>
 </ul>
@@ -61,4 +61,4 @@ python evaluate.py --test "data/test.xlsx" --text_col "cleaned" --label_col <"cl
 
 A <i>result.txt</i> file is generated
 
-<img src="images/results.png" height="" width="">
+<img src="images/results.PNG" height="380" width="480">
