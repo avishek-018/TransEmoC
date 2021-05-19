@@ -73,6 +73,17 @@ A <i>result.txt</i> file is generated
 
 <img src="images/results.PNG" height="380" width="480">
 
+## Cite this work
+If you find this repository helpful in your work please cite the following
+```
+@article{das2021emotion,
+  title={Emotion Classification in a Resource Constrained Language Using Transformer-based Approach},
+  author={Das, Avishek and Sharif, Omar and Hoque, Mohammed Moshiul and Sarker, Iqbal H},
+  journal={arXiv preprint arXiv:2104.08613},
+  year={2021}
+}
+```
+
 ## Note
 
 If you find any anomaly or have any query/suggestion feel free to ping. Pull requests are welcome.
