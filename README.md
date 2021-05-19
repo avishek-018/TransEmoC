@@ -1,4 +1,7 @@
-![GitHub all releases](https://img.shields.io/github/downloads/avishek-018/Emotion-Classification-using-Transformers/total?color=green&style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/avishek-018/Emotion-Classification-using-Transformers?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/avishek-018/Emotion-Classification-using-Transformers)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/avishek-018/Emotion-Classification-using-Transformers)
+![GitHub repo size](https://img.shields.io/github/repo-size/avishek-018/Emotion-Classification-using-Transformers)
 
 # Emotion Classification using Tranformers
 This git repo is a part of the Project [Emotion Classification in a Resource Constrained Language](https://github.com/omar-sharif03/NAACL-SRW-2021).
