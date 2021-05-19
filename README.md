@@ -12,14 +12,14 @@ git clone https://github.com/avishek-018/Emotion-Classification-using-Transforme
 ```
 2. Change directory
 ```
-cd emotion-classification-using-tranformers
+cd Emotion-Classification-using-Transformers
 ```
 
    #### If you are using [colab](https://colab.research.google.com/) ignore steps above and proceed with the following code snippet
    ```
    !git clone https://github.com/avishek-018/Emotion-Classification-using-Transformers.git
-   !mv  -v emotion-classification-using-tranformers/* /content
-   !rm -rf emotion-classification-using-tranformers
+   !mv  -v Emotion-Classification-using-Transformers/* /content
+   !rm -rf Emotion-Classification-using-Transformers
    ```
 
 3. Install the requirements
