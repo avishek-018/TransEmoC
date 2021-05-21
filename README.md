@@ -8,18 +8,18 @@ The proposed model described in the corresponding [paper](https://arxiv.org/abs/
 ## Usage
 1. Clone the github repository
 ```
-git clone https://github.com/avishek-018/Emotion-Classification-using-Transformers.git
+git clone https://github.com/avishek-018/TransEmoC.git
 ```
 2. Change directory
 ```
-cd Emotion-Classification-using-Transformers
+cd TransEmoC
 ```
 
    #### If you are using [colab](https://colab.research.google.com/) ignore steps above and proceed with the following code snippet
    ```
-   !git clone https://github.com/avishek-018/Emotion-Classification-using-Transformers.git
-   !mv  -v Emotion-Classification-using-Transformers/* /content
-   !rm -rf Emotion-Classification-using-Transformers
+   !git clone https://github.com/avishek-018/TransEmoC.git
+   !mv  -v TransEmoC/* /content
+   !rm -rf TransEmoC
    ```
 
 3. Install the requirements
