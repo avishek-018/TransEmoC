@@ -68,7 +68,7 @@ And the optional arguments are (otherwise default model location used)
 Exmaple for this repository:
 
 ```
-python evaluate.py --test "data/test.xlsx" --text_col "cleaned" --label_col <"class/label column name"> --model "model" 
+python evaluate.py --test "data/test.xlsx" --text_col "cleaned" --label_col "classes" --model "model" 
 ```
 
 <b>Output</b>
