@@ -48,7 +48,7 @@ And the optional arguments are (otherwise proposed hyperpameters are used)
 Exmaple for this repository:
 
 ```
-python train.py  --train "data/train.xlsx" --val <"path to text data(xlsx/csv)"> --text_col "cleaned" --label_col "classes" --epochs 20 --batch_size 12 --lr 2e-5 --maxlen 70
+python train.py  --train "data/train.xlsx" --val "data/val.xlsx" --text_col "cleaned" --label_col "classes" --epochs 20 --batch_size 12 --lr 2e-5 --maxlen 70
 ```
 5. Run evaluate.py to evaluate your model with test data
 ```
