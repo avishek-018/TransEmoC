@@ -52,7 +52,7 @@ python train.py  --train "data/train.xlsx" --val "data/val.xlsx" --text_col "cle
 ```
 5. Run evaluate.py to evaluate your model with test data
 ```
-python evaluate.py --test "data/test.xlsx" --text_col <"text data column name"> --label_col "classes" --model <"/path/to/model"> 
+python evaluate.py --test <"path to test data(xlsx/csv)"> --text_col <"text data column name"> --label_col "classes" --model <"/path/to/model"> 
 ```
 Required arguments:
 <ul>
