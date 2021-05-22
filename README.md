@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 4. Run train.py with you data and specify the hyperparameter(optional)
 ```
-python train.py  --train <"path to train data(xlsx/csv)"> --val <"path to val data(xlsx/csv)"> --text_col <"text data column name"> --label_col  <"class/label column name"> --epochs <num of epochs> --batch_size <batch size> --lr <learning rate> --maxlen <max text length>
+python train.py  --train <"path to train data(xlsx/csv)"> --val <"path to val data(xlsx/csv)"> --text_col <"text data column name"> --model <"model name"> --label_col  <"class/label column name"> --epochs <num of epochs> --batch_size <batch size> --lr <learning rate> --maxlen <max text length>
 ```
 Required arguments:
 <ul>
@@ -48,7 +48,7 @@ And the optional arguments are (otherwise proposed hyperpameters are used)
 Exmaple for this repository:
 
 ```
-python train.py  --train "data/train.xlsx" --val "data/val.xlsx" --text_col "cleaned" --label_col "classes" --epochs 20 --batch_size 12 --lr 2e-5 --maxlen 70
+python train.py  --train "data/train.xlsx" --val "data/val.xlsx" --text_col "cleaned" --label_col "classes" --model "xlm-roberta-base" --epochs 20 --batch_size 12 --lr 2e-5 --maxlen 70
 ```
 5. Run evaluate.py to evaluate your model with test data
 ```
