@@ -40,6 +40,7 @@ Required arguments:
  
 And the optional arguments are (otherwise proposed hyperpameters are used)
 <ul>
+<li>--model </li>
 <li>--epochs </li>
 <li>--batch_size </li>
 <li>--lr </li>
