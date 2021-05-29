@@ -50,7 +50,7 @@ with open("result.txt", 'a') as f:
   f.write("Confusion Marix:\n")
   f.write(str(confusion_matrix(true,pred)))
   f.write("\n")
-  f.write("Classification Report:")
+  f.write("\nClassification Report:")
   f.write("\n")
   f.write(str(classification_report(true,pred, target_names=model.get_classes())))
   f.write("\n")
