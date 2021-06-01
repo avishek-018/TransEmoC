@@ -78,6 +78,19 @@ A <i>result.txt</i> file is generated
 
 <img src="images/results.PNG" height="380" width="480">
 
+6. Run predict.py to get the prediction for a text
+```
+python predict.py --sentence "your text goes here" --model <"/path/to/model"> 
+```
+
+Exmaple for this repository:
+```
+python predict.py --sentence "ছেলেটা তিন দিন ধরে না খেয়ে আছে" --model "model" 
+```
+Output:
+
+<img src="images/pred-b.PNG" height="380" width="480">
+
 ## Cite this work
 If you find this repository helpful in your work please cite the following
 ```
