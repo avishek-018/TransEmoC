@@ -89,7 +89,7 @@ python predict.py --sentence "ছেলেটা তিন দিন ধরে �
 ```
 Output:
 
-<img src="images/pred-b.PNG" height="380" width="480">
+<img src="images/pred-b.PNG" height="128" width="380">
 
 ## Cite this work
 If you find this repository helpful in your work please cite the following
