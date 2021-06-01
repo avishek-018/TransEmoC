@@ -11,6 +11,7 @@ logger = logging.getLogger()
 logger.disabled = True
 
 def printTable(myDict, colList=None):
+
    if not colList: colList = list(myDict[0].keys() if myDict else [])
    myList = [colList] # 1st row = header
    for item in myDict: myList.append([str(item[col] if item[col] is not None else '') for col in colList])
@@ -39,5 +40,6 @@ predicted_class = model.predict(test_data)[0]
 np.set_printoptions(suppress=True)
 res = {classes[i]: round(predictions[0][i]*100, 4) for i in range(len(classes))}
 
+print("Probabilty(%)\n")
 printTable([res])
 print("\nPredicted Class:", predicted_class)
