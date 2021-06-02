@@ -1,3 +1,4 @@
 ktrain==0.26.3
 tensorflow
 ipykernel
+xlrd openpyxl
