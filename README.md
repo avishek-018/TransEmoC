@@ -5,6 +5,8 @@
 # TransEmoC: Emotion Classification Toolkit using Tranformers
 This git repo is a part of the Project [Emotion Classification in a Resource Constrained Language](https://github.com/omar-sharif03/NAACL-SRW-2021).
 The proposed model described in the corresponding [paper](https://arxiv.org/abs/2104.08613) is wrapped up in this git project for reuse by developers and researchers.
+
+Find the reproducible capsule [here](https://codeocean.com/capsule/6765604/tree/v1).
 ## Usage
 1. Clone the github repository
 ```
