@@ -10,7 +10,7 @@ Find the reproducible capsule [here](https://codeocean.com/capsule/6765604/tree/
 
 <div align="center">
     <img width="350px" src='images/transemoc-logo.png' />
-    <p style="text-align: center;color:gray">Figure 1: BERT Classification Model</p>
+    <p style="text-align: center;color:gray"></p>
 </div>
 
 ## Usage
